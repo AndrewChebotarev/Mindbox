@@ -1,0 +1,3 @@
+﻿global using AreaCalculationLibrary.Creator;
+global using AreaCalculationLibrary.GeneralСalculation;
+global using AreaCalculationLibrary.FigureCalculation;

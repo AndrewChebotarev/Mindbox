@@ -1,0 +1,12 @@
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\obj\Debug\net6.0\AreaCalculationLibrary.csproj.AssemblyReference.cache
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\obj\Debug\net6.0\AreaCalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\obj\Debug\net6.0\AreaCalculationLibrary.AssemblyInfoInputs.cache
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\obj\Debug\net6.0\AreaCalculationLibrary.AssemblyInfo.cs
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\obj\Debug\net6.0\AreaCalculationLibrary.csproj.CoreCompileInputs.cache
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\bin\Debug\net6.0\AreaCalculationLibrary.deps.json
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\bin\Debug\net6.0\AreaCalculationLibrary.dll
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\bin\Debug\net6.0\AreaCalculationLibrary.pdb
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\obj\Debug\net6.0\AreaCalculationLibrary.dll
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\obj\Debug\net6.0\refint\AreaCalculationLibrary.dll
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\obj\Debug\net6.0\AreaCalculationLibrary.pdb
+D:\ProgramInfo\Mindbox\AreaCalculation\AreaCalculationLibrary\obj\Debug\net6.0\ref\AreaCalculationLibrary.dll
